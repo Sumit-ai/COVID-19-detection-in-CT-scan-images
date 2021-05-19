@@ -1,2 +1,5 @@
+---
+youtubeId: putYourIDHere
+---
 
-{% include youtubePlayer.html id=page.c_hG1t9KVf4 %}
+{% include youtubePlayer.html id=page.youtubeId %}
